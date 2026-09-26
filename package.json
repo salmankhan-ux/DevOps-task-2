@@ -1,0 +1,12 @@
+{
+  "name": "devops-task-2",
+  "version": "1.0.0",
+  "description": "DevOps Internship Task 2",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
